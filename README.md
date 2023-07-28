@@ -7,5 +7,5 @@ meu Nome é ⭐_Beerthic_🌟
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamente dos meus projetos
-- Utilizo o [Scratch](https://scratch.mit.edu/) para programar, também utilizo o [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) para programar
+- Utilizo o [Scratch](https://scratch.mit.edu/) para programar, também utilizo o [P5js](https://p5js.org/) para programar
 
